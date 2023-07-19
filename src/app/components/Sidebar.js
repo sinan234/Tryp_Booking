@@ -1,7 +1,8 @@
 import React from 'react';
-import { FaBook, FaCog } from 'react-icons/fa';
+import { FaBook } from 'react-icons/fa';
 import { FaPersonWalkingLuggage } from 'react-icons/fa6';
 import { MdOutlineDashboard } from "react-icons/md";
+import {  FaCog } from 'react-icons/fa';
 
 
 function Sidebar() {
